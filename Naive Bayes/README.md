@@ -1,4 +1,4 @@
-# Naive Bayes - Overview
+# Naive Bayes 
 
 ### Definition
 - **Naive Bayes** is a probabilistic machine learning algorithm based on Bayes' Theorem, used for classification tasks. It assumes that the features are independent of each other, which is known as the "naive" assumption.
