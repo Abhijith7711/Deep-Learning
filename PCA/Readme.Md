@@ -2,7 +2,7 @@
 
 This repository contains a Jupyter Notebook dedicated to exploring and applying Principal Component Analysis (PCA) for dimensionality reduction.
 
-##  PCA?
+##  PCA
 
 Principal Component Analysis (PCA) is a statistical technique used to simplify complex datasets by reducing the number of dimensions (features) while preserving as much variability as possible. It does this by identifying principal components—new uncorrelated variables that capture the maximum variance within the data. PCA is especially useful in fields like machine learning, where reducing dimensionality can help improve computation efficiency and visual understanding of high-dimensional data.
 
