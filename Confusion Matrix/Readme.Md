@@ -30,6 +30,3 @@ The dataset is synthetically generated, where:
 
 The Confusion Matrix and ROC Curve provide an in-depth look at the model’s classification performance. The ROC curve visualization aids in understanding the model’s ability to differentiate between the two classes.
 
-## **Getting Started**
-
-To run this project, clone the repository and ensure you have the necessary libraries (`numpy`, `matplotlib`, `sklearn`) installed. Then execute the provided code to generate the Confusion Matrix and ROC Curve.
