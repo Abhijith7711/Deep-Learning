@@ -1,6 +1,6 @@
 # PCA Experiment
 
-This repository contains a Jupyter Notebook dedicated to exploring and applying Principal Component Analysis (PCA) for dimensionality reduction.
+This experiment aims to explore and applying Principal Component Analysis (PCA) for dimensionality reduction.
 
 ##  PCA
 
