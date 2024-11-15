@@ -1,6 +1,6 @@
 # Support Vector Machine
 
-This repository contains a Jupyter Notebook demonstrating the application of Support Vector Machine (SVM) for classification tasks.
+This experiment demonstrate the application of Support Vector Machine (SVM) for classification tasks.
 
 ## What is SVM?
 
